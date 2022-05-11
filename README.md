@@ -10,3 +10,5 @@ Data Analyst Portfolio
 - Analyzied data to get the optimum outcome from the available data to answer the business questions.
 - Used tableau as my data visualization tool to show insights and trends.
 - Gave recommendation which depends on the facts from the data.
+
+![]()
