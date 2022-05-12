@@ -13,12 +13,12 @@ Data Analyst Portfolio
 
 ### Dashboard-1
 
-![Dashboard-1](https://user-images.githubusercontent.com/105308533/168097160-e03f90ec-0e7f-4f72-8404-8fbc6b8d6d87.png)
 
-![](https://github.com/Muhanned-Kamar/MK-Portfolio/blob/main/Images/Dashboard-1.png)
+
+![](Images/Dashboard-1.png)
 
 
 ### Dashboard-2
 
 
-![](https://github.com/Muhanned-Kamar/MK-Portfolio/blob/main/Images/Dashboard-2.png)
+![](Images/Dashboard-2.png)
