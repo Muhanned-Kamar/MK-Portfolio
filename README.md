@@ -15,10 +15,10 @@ Data Analyst Portfolio
 
 
 
-![](Images/Dashboard-1.png)
+![](Images/CP_DB_1.png)
 
 
 ### Dashboard-2
 
 
-![](Images/Dashboard-2.png)
+![](Images/CP_DB_2.png)
