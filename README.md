@@ -51,7 +51,7 @@ Data Analyst Portfolio
 
 
 
-## [Project 4: Nashville Housing Data Cleaning Project](https://github.com/Muhanned-Kamar/Nashville_Housing_Data_Cleaning_Project)
+## [Project 4: Nashville Housing Data Cleaning](https://github.com/Muhanned-Kamar/Nashville_Housing_Data_Cleaning_Project)
 
 - Used Microsoft SQl Server to clean the data
 - Converted data type to a suitable type to ensure it proper usage
