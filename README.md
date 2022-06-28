@@ -14,12 +14,10 @@ Data Analyst Portfolio
 ### [Dashboard (Average User Usage & Ride Time)](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project/Dashboard1)
 
 
-
 ![](Images/Cyclistic_Project/CP_DB_1.png)
 
 
 ### [Dashboard (Users Usage Thoughout The Year)](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project_2/Dashboard1)
-
 
 
 ![](Images/Cyclistic_Project/CP_DB_2.png)
@@ -43,12 +41,10 @@ Data Analyst Portfolio
 ### [DashBoard (Covid-19 Deaths)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Deaths/Dashboard1)
 
 
-
 ![](Images/Covid-19_Project/Covid-19_Death_DB.png)
 
 
 ### [DashBoard (Covid-19 Vaccination)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Vac/Dashboard1)
-
 
 
 ![](Images/Covid-19_Project/Covid-19_Vaccinated_DB.png)
