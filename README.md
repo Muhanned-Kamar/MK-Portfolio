@@ -11,14 +11,14 @@ Data Analyst Portfolio
 - Used tableau as my data visualization tool to show insights and trends.
 - Gave recommendation which depends on the facts from the data.
 
-### Dashboard-1
+### [Dashboard-1](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project/Dashboard1)
 
 
 
 ![](Images/Cyclistic_Project/CP_DB_1.png)
 
 
-### Dashboard-2
+### [Dashboard-2](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project_2/Dashboard1)
 
 
 ![](Images/Cyclistic_Project/CP_DB_2.png)
