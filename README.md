@@ -14,11 +14,10 @@ Data Analyst Portfolio
 ### [Dashboard (Average User Usage & Ride Time)](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project/Dashboard1)
 
 
-
 ![](Images/Cyclistic_Project/CP_DB_1.png)
 
 
-### [Dashboard (Users Usage Thoughout the Year)](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project_2/Dashboard1)
+### [Dashboard (Users Usage Thoughout The Year)](https://public.tableau.com/app/profile/muhanned1728/viz/Cyclistic_Project_2/Dashboard1)
 
 
 ![](Images/Cyclistic_Project/CP_DB_2.png)
@@ -38,12 +37,21 @@ Data Analyst Portfolio
 - The data used from those queries would make us better understand what happend to the continent/countries(Location in the dataset)
 - Used Tableau as the data vizualization tool to show findings and differences between continent/countries and how they dealt with the pandemic
 
-### DashBoard-1 For Covid-19 Deaths
+
+### [DashBoard (Covid-19 Deaths)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Deaths/Dashboard1)
+
+
+![](Images/Covid-19_Project/Covid-19_Deaths_DB.png)
+
+
+### [DashBoard (Covid-19 Vaccination)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Vac/Dashboard1)
+
+
+![](Images/Covid-19_Project/Covid-19_Vaccinated_DB.png)
 
 
 
-
-
+## [Project 4: Nashville Housing Data Cleaning Project](https://github.com/Muhanned-Kamar/Nashville_Housing_Data_Cleaning_Project)
 
 
 
