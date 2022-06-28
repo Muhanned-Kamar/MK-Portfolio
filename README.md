@@ -38,13 +38,13 @@ Data Analyst Portfolio
 - Used Tableau as the data vizualization tool to show findings and differences between continent/countries and how they dealt with the pandemic
 
 
-### [DashBoard (Covid-19 Deaths)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Deaths/Dashboard1)
+### [Dashboard (Covid-19 Deaths)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Deaths/Dashboard1)
 
 
 ![](Images/Covid-19_Project/Covid-19_Death_DB.png)
 
 
-### [DashBoard (Covid-19 Vaccination)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Vac/Dashboard1)
+### [Dashboard (Covid-19 Vaccination)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Vac/Dashboard1)
 
 
 ![](Images/Covid-19_Project/Covid-19_Vaccinated_DB.png)
