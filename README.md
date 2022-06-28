@@ -15,13 +15,13 @@ Data Analyst Portfolio
 
 
 
-![](Images/CP_DB_1.png)
+![](Images/Cyclistic_Project/CP_DB_1.png)
 
 
 ### Dashboard-2
 
 
-![](Images/CP_DB_2.png)
+![](Images/Cyclistic_Project/CP_DB_2.png)
 
 
 ## [Project 2: Covid-19 Data Exploration](https://github.com/Muhanned-Kamar/Covid-19_Data_Exploration_Project)
