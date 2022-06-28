@@ -22,3 +22,32 @@ Data Analyst Portfolio
 
 
 ![](Images/CP_DB_2.png)
+
+
+## [Project 2: Covid-19 Data Exploration](https://github.com/Muhanned-Kamar/Covid-19_Data_Exploration_Project)
+
+- Explored the data using Microsoft SQL Server which gave me a new software to use and explora data with.
+- Viewed the data to get a better understanding of it and what can I get from it so I can tell a story using a vizualization tool.
+- After viewing the data I found more than one way to get some useful information like new deaths, new cases, new vaccination ,etc. .
+- Sorted, organized and made more than one table experssing the useful information in the dataset.
+
+## [Project 3: Covid-19 Data Vizualization](https://github.com/Muhanned-Kamar/Covid-19_Data_Visualization)
+
+- After Explorating the data in [Project 2](https://github.com/Muhanned-Kamar/Covid-19_Data_Exploration_Project) now it is time get some table from the queries to show the findings
+- Made to Vizualizations each for Covid-19 Deaths and Covid-19 Vaccination.
+- The data used from those queries would make us better understand what happend to the continent/countries(Location in the dataset)
+- Used Tableau as the data vizualization tool to show findings and differences between continent/countries and how they dealt with the pandemic
+
+### DashBoard-1 For Covid-19 Deaths
+
+
+
+
+
+
+
+
+
+
+
+
