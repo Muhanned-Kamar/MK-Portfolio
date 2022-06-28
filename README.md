@@ -41,7 +41,7 @@ Data Analyst Portfolio
 ### [DashBoard (Covid-19 Deaths)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Deaths/Dashboard1)
 
 
-![](Images/Covid-19_Project/Covid-19_Deaths_DB.png)
+![](Images/Covid-19_Project/Covid-19_Death_DB.png)
 
 
 ### [DashBoard (Covid-19 Vaccination)](https://public.tableau.com/app/profile/muhanned1728/viz/Covid-19_Project_Vac/Dashboard1)
