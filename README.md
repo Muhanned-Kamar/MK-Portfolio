@@ -73,6 +73,6 @@ Data Analyst Portfolio
 
 ### Some of the Visualization made on Jupyter Notebook you can see all the Code on Kaggle thourgh this [link](https://www.kaggle.com/code/muhannedkamareldawla/movie-industry-descriptive-analysis)
 
-<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="450" height="450"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Compony%20Movie%20Relaeases.jpg" width="550" height="450">
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="400" height="400"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Compony%20Movie%20Relaeases.jpg" width="500" height="400">
 
-<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Correlation.jpg" width="450" height="450"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Gross%20Vs%20Votes.jpg" width="550" height="450">
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Correlation.jpg" width="400" height="400> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Gross%20Vs%20Votes.jpg" width="500 height="400>
