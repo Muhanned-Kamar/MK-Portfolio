@@ -62,6 +62,6 @@ Data Analyst Portfolio
 - Found and removed duplicates so there is no bias in the data
 - Deleted unused columns to make ot more simple and fast while analyzing 
 
-![](Images/Movie_Industy_Project/output.jpg = 250x250)
+![](Images/Movie_Industy_Project/output.jpg =250x250)
 
  
