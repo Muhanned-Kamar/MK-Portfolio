@@ -62,5 +62,5 @@ Data Analyst Portfolio
 - Found and removed duplicates so there is no bias in the data
 - Deleted unused columns to make ot more simple and fast while analyzing 
 
-[[https://github.com/Muhanned-Kamar/MK-Portfolio/blob/main/Images/Movie_Industy_Project/output.jpg?raw=true|width=400px]]
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="500" height="500">
 
