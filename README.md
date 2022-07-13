@@ -75,4 +75,4 @@ Data Analyst Portfolio
 
 <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="400" height="400"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Compony%20Movie%20Relaeases.jpg" width="500" height="400">
 
-<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Correlation.jpg" width="400" height="400> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Gross%20Vs%20Votes.jpg" width="500 height="400>
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Correlation.jpg" width="400" height="400"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Gross%20Vs%20Votes.jpg" width="500" height="400">
