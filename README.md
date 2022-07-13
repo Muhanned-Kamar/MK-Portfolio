@@ -62,5 +62,17 @@ Data Analyst Portfolio
 - Found and removed duplicates so there is no bias in the data
 - Deleted unused columns to make ot more simple and fast while analyzing 
 
-<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="500" height="500">
+## [Project 5: Movie Industry Descriptive Analysis](https://github.com/Muhanned-Kamar/Movie_Industry_Descriptive_Analysis_Project)
 
+- Used Python 'Jupyter Notebook' to do the analysis
+- Explored, Cleaned, Visualized, and got conclusions
+- Created new columns and checked it credibilty 
+- Check data that the data is not bais
+- Found insights from the data
+- Descriptive statistics findings 
+
+### Some of the Visualization made on Jupyter Notebook you can see all the Code on Kaggle thourgh this [link](https://www.kaggle.com/code/muhannedkamareldawla/movie-industry-descriptive-analysis)
+
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Genre%20Precentage.jpg" width="450" height="450"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Compony%20Movie%20Relaeases.jpg" width="550" height="450">
+
+<img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Correlation.jpg" width="450" height="450"> <img src="https://raw.githubusercontent.com/Muhanned-Kamar/MK-Portfolio/main/Images/Movie_Industy_Project/Gross%20Vs%20Votes.jpg" width="550" height="450">
