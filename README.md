@@ -62,6 +62,5 @@ Data Analyst Portfolio
 - Found and removed duplicates so there is no bias in the data
 - Deleted unused columns to make ot more simple and fast while analyzing 
 
-
 ![](Images/Movie_Industy_Project/Compony Movie Relaeases.jpg)
 
